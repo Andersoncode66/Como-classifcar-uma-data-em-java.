@@ -88,3 +88,10 @@ Ao executar o código, o seguinte resultado será exibido no console:
 ![resultado](https://github.com/user-attachments/assets/ee4559e6-b9ba-4f90-9965-86c07625c83e)
 
 
+
+
+
+### DataExemplo2
+
+
+![data](https://github.com/user-attachments/assets/e852e588-f829-4665-9407-01fc6d779fd7)
