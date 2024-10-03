@@ -137,6 +137,9 @@ O código irá exibir as datas classificadas em ordem crescente e, em seguida, e
 
 
 
+### Dataexemplo3
+![dataexemplo3](https://github.com/user-attachments/assets/1363d1a2-7349-47a1-81a4-15191104b6d4)
+
 
 
 
