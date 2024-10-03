@@ -92,6 +92,48 @@ Ao executar o código, o seguinte resultado será exibido no console:
 
 
 ### DataExemplo2
-
-
 ![data](https://github.com/user-attachments/assets/e852e588-f829-4665-9407-01fc6d779fd7)
+O objetivo deste projeto é ilustrar como manipular listas de datas no Java e realizar operações de ordenação. A classe LocalDate, parte da API de datas do Java, é usada para armazenar as datas. O exemplo utiliza Comparator.naturalOrder() para classificar as datas em ordem crescente e Comparator.reverseOrder() para classficá-las em ordem decrescente.
+
+#### Tecnologia Utilizadas
+- Java8 ou superior: A API de datas (java.time.LocalDate) foi introduzida no Java 8.
+- LinkedList: Usada para armazenar as datas. É uma implementação de lista encadeada.
+- Comparator: Utilizado para ordenar a lista de datas tanto em ordem crescente quanto descrescente.
+
+#### Estrutura do Código
+
+1. Criação da Lista de Datas
+
+![tela1](https://github.com/user-attachments/assets/bb1492db-28a9-40bd-a864-970178b4806f)
+
+Neste trecho, criamos uma lista de datas usando a LinkedList e adicionamos algumas datas utilizando o método LocalDate.of().
+
+2. Ordenação em Ordem Crescente
+
+![tela2](https://github.com/user-attachments/assets/c003eb0f-d83a-4156-af77-dbc6641ef7c1)
+
+Utilizamos o método sort() da interface List e passamos o Comparator.naturalOrder() para ordenar as datas em ordem crescente.
+
+4. Ordenação em ordem Descrecente
+
+![tela 3](https://github.com/user-attachments/assets/e538f7c2-b72b-42af-aa9f-e3751ebea06b)
+
+Para ordernar as datas em ordem descrecente, usamos Comparator.reverseOrder().
+
+6. Exibição das Datas
+
+O código imprime as datas após a ordenação, tanto em ordem crescente quanto em ordem decrescente:
+
+![tela 4](https://github.com/user-attachments/assets/4ba5b415-56f1-45f5-8e9f-3948bafe6340)
+
+8. Saída esperada
+
+O código irá exibir as datas classificadas em ordem crescente e, em seguida, em ordem descrecente:
+
+![resultado2](https://github.com/user-attachments/assets/d665ecd2-f284-433a-a4dd-cf9fd820a7cd)
+
+
+
+
+
+
