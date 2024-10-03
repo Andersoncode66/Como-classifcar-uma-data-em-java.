@@ -92,8 +92,11 @@ Ao executar o código, o seguinte resultado será exibido no console:
 
 
 ### DataExemplo2
-![data](https://github.com/user-attachments/assets/e852e588-f829-4665-9407-01fc6d779fd7)
+
 O objetivo deste projeto é ilustrar como manipular listas de datas no Java e realizar operações de ordenação. A classe LocalDate, parte da API de datas do Java, é usada para armazenar as datas. O exemplo utiliza Comparator.naturalOrder() para classificar as datas em ordem crescente e Comparator.reverseOrder() para classficá-las em ordem decrescente.
+
+![data](https://github.com/user-attachments/assets/e852e588-f829-4665-9407-01fc6d779fd7)
+
 
 #### Tecnologia Utilizadas
 - Java8 ou superior: A API de datas (java.time.LocalDate) foi introduzida no Java 8.
