@@ -138,6 +138,7 @@ O código irá exibir as datas classificadas em ordem crescente e, em seguida, e
 
 
 ### Dataexemplo3
+Este exemplo contém um exemplo de código em Java que demonstra como criar uma lista de datas usando LinkedList e ordená-las em ordem crescente utilizando o algoritmo Bubble Sort.
 ![dataexemplo3](https://github.com/user-attachments/assets/1363d1a2-7349-47a1-81a4-15191104b6d4)
 
 
