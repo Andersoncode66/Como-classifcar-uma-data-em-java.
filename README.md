@@ -1,4 +1,4 @@
-# Como classificar uma data em java.
+# Como classificar uma data em Java.
 
 ## Índice
 1. Introdução
